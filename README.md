@@ -6,7 +6,7 @@ Shiny icons need shiny names
 2. Install Avrora
 
 ## Compiling
-  - Depends on sparkapplist & libPDDokdo
+  - Depends on sparkapplist and libPDDokdo
   - You may want to edit the `Makefiles` to suit your theos installation
 
 ## Note
