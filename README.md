@@ -16,7 +16,7 @@ You may not use this project to make profit like money
 
 ## Credits
   - Inspiration
-    - [artikushg](https://twitter.com/artikushg)
+    - [ArtikusHG](https://twitter.com/ArtikusHG)
   - Option to hide all other labels
     - [DaveWijk](https://twitter.com/DaveWijk)
   - Icon and Banner
