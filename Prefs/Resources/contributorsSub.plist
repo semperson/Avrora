@@ -9,6 +9,25 @@
 			<key>cell</key>
 			<string>PSGroupCell</string>
 			<key>label</key>
+			<string>Inspiration</string>
+		</dict>
+		<dict>
+            <key>cell</key>
+            <string>PSButtonCell</string>
+            <key>label</key>
+            <string>@ArtikusHG</string>
+            <key>cellClass</key>
+            <string>HBTwitterCell</string>
+            <key>label</key>
+            <string>ArtikusHG</string>
+            <key>user</key>
+            <string>ArtikusHG</string>
+        </dict>
+        
+        <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
 			<string>Hide All Other Labels</string>
 		</dict>
 		<dict>
