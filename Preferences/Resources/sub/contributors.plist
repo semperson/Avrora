@@ -28,7 +28,7 @@
 			<key>cell</key>
 			<string>PSGroupCell</string>
 			<key>label</key>
-			<string>Hide All Other Labels</string>
+			<string>Hide all other Labels</string>
 		</dict>
 		<dict>
             <key>cell</key>
@@ -44,12 +44,12 @@
         </dict>
 
         <dict>
-			<key>cell</key>
-			<string>PSGroupCell</string>
-			<key>label</key>
-			<string>Pretty Twitter Cells By</string>
-		</dict>
-		<dict>
+            <key>cell</key>
+            <string>PSGroupCell</string>
+            <key>label</key>
+            <string>Duo Twitter Cell</string>
+        </dict>
+        <dict>
             <key>cell</key>
             <string>PSButtonCell</string>
             <key>label</key>
@@ -60,6 +60,18 @@
             <string>kritanta</string>
             <key>user</key>
             <string>arm64e</string>
+        </dict>
+        <dict>
+            <key>cell</key>
+            <string>PSButtonCell</string>
+            <key>label</key>
+            <string>@MrGcGamer</string>
+            <key>cellClass</key>
+            <string>HBTwitterCell</string>
+            <key>label</key>
+            <string>MrGcGamer</string>
+            <key>user</key>
+            <string>MrGcGamer</string>
         </dict>
 
 	</array>

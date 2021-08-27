@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleExecutable</key>
-	<string>AvroraPrefs</string>
+	<string>AvroraPreferences</string>
 	<key>CFBundleIdentifier</key>
 	<string>love.litten.avrorapreferences</string>
 	<key>CFBundleInfoDictionaryVersion</key>

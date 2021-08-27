@@ -47,8 +47,6 @@
 			<string>Date Format:</string>
 			<key>key</key>
 			<string>dateFormat</string>
-			<key>PostNotification</key>
-			<string>love.litten.avrorapreferences/ReloadPrefs</string>
 		</dict>
 
 		<dict>
@@ -57,7 +55,7 @@
 			<key>label</key>
 			<string>Clock</string>
 			<key>footerText</key>
-			<string>doesn't update in realtime</string>
+			<string>Does not update in realtime</string>
 			<key>isStaticText</key>
 			<true/>
 		</dict>
@@ -82,8 +80,6 @@
 			<string>Time Format:</string>
 			<key>key</key>
 			<string>timeFormat</string>
-			<key>PostNotification</key>
-			<string>love.litten.avrorapreferences/ReloadPrefs</string>
 		</dict>
 
 		<dict>
@@ -111,8 +107,6 @@
 			<string>condition</string>
 			<key>label</key>
 			<string>Condition</string>
-			<key>PostNotification</key>
-			<string>love.litten.avrorapreferences/ReloadPrefs</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -125,8 +119,6 @@
 			<string>temperature</string>
 			<key>label</key>
 			<string>Temperature</string>
-			<key>PostNotification</key>
-			<string>love.litten.avrorapreferences/ReloadPrefs</string>
 		</dict>
 
 		<dict>
@@ -135,7 +127,7 @@
 			<key>label</key>
 			<string>Now Playing</string>
 			<key>footerText</key>
-			<string>doesn't update in realtime</string>
+			<string>Does not update in realtime</string>
 			<key>isStaticText</key>
 			<true/>
 		</dict>
@@ -158,8 +150,6 @@
 			<string>songTitle</string>
 			<key>label</key>
 			<string>Song Title</string>
-			<key>PostNotification</key>
-			<string>love.litten.avrorapreferences/ReloadPrefs</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -172,8 +162,6 @@
 			<string>artistName</string>
 			<key>label</key>
 			<string>Artist Name</string>
-			<key>PostNotification</key>
-			<string>love.litten.avrorapreferences/ReloadPrefs</string>
 		</dict>
 
 		<dict>
@@ -192,9 +180,7 @@
 			<key>key</key>
 			<string>lowercaseAllLabels</string>
 			<key>label</key>
-			<string>Lowercase All Labels</string>
-			<key>PostNotification</key>
-			<string>love.litten.avrorapreferences/ReloadPrefs</string>
+			<string>Lowercase all Labels</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -206,9 +192,7 @@
 			<key>key</key>
 			<string>hideAllOtherLabels</string>
 			<key>label</key>
-			<string>Hide All Other Labels</string>
-			<key>PostNotification</key>
-			<string>love.litten.avrorapreferences/ReloadPrefs</string>
+			<string>Hide all other Labels</string>
 		</dict>
 
 		<dict>
@@ -246,9 +230,9 @@
  			<key>label</key>
  			<string>Contributors</string>
  			<key>detail</key>
- 			<string>AVAContributorsSubPrefsListController</string>
+ 			<string>AVAContributorsSubPreferencesListController</string>
  			<key>AVASub</key>
- 			<string>contributorsSub</string>
+ 			<string>sub/contributors</string>
  		</dict>
 
 		<dict>
@@ -265,7 +249,7 @@
 			<key>subtitle</key>
 			<string>Replace your carrier with a weather emoji</string>
 			<key>icon</key>
-			<string>Nita.png</string>
+			<string>featured/Nita.png</string>
 			<key>url</key>
 			<string>https://repo.litten.love/depictions/Nita/</string>
 		</dict>
@@ -273,20 +257,20 @@
 			<key>cellClass</key>
 			<string>HBLinkTableCell</string>
 			<key>label</key>
-			<string>Butterfly</string>
+			<string>Juin</string>
 			<key>subtitle</key>
-			<string>Text Selection, But Colorful</string>
+			<string>Spotify inspired lockscreen player</string>
 			<key>icon</key>
-			<string>Butterfly.png</string>
+			<string>featured/Juin.png</string>
 			<key>url</key>
-			<string>https://repo.litten.love/depictions/Butterfly/</string>
+			<string>https://repo.litten.love/depictions/Juin/</string>
 		</dict>
 
 		<dict>
 			<key>cell</key>
 			<string>PSGroupCell</string>
 			<key>footerText</key>
-			<string>Avrora By Litten, Icon And Banner By taki</string>
+			<string>Avrora by Litten, Icon and Banner by taki</string>
 			<key>isStaticText</key>
 			<true/>
 		</dict>
@@ -314,7 +298,7 @@
 			<key>cellClass</key>
 			<string>HBLinkTableCell</string>
 			<key>label</key>
-			<string>Donate To Litten</string>
+			<string>Donate to Litten</string>
 			<key>subtitle</key>
 			<string>Appreciated 💝</string>
 			<key>url</key>
@@ -325,7 +309,7 @@
 			<key>cell</key>
 			<key>PSGroupCell</key>
 			<key>footerText</key>
-			<string>Made With 💜</string>
+			<string>loving with the sky</string>
 			<key>isStaticText</key>
 			<true/>
 			<key>footerAlignment</key>
