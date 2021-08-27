@@ -17,9 +17,9 @@ You may not use this project to make profit like money
 ## Credits
   - Inspiration
     - [ArtikusHG](https://twitter.com/ArtikusHG)
-  - Option to hide all other labels
+  - Option to hide all other Labels
     - [DaveWijk](https://twitter.com/DaveWijk)
   - Icon and Banner
     - [74k1_](https://twitter.com/74k1_)
-  - Duo twitter cell
+  - Duo Twitter Cell
     - [arm64e](https://twitter.com/arm64e), [MrGcGamer](https://twitter.com/MrGcGamer)
