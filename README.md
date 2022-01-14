@@ -1,4 +1,4 @@
-# Avrora
+# Avrora 🌌
 Shiny icons need shiny names
 
 ## Installation
